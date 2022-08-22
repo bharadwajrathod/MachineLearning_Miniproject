@@ -5,4 +5,15 @@
 ![image](https://user-images.githubusercontent.com/64728560/185998678-c08635de-37bd-4435-9338-14a6b2215f6c.png)
 ![image](https://user-images.githubusercontent.com/64728560/185998769-ee75cddd-bcfa-47bf-a15b-6ca562798895.png)
 
+## Feature Extracting :
+- Data preprocessing  & Data Visualisation (how many classes are divided in our  dataset ).
+- Over Sample & Under Sample (if data is imbalance make it balance by level uping )
+- Normalisation (making larger values into samller values ).
 
+## Training Algorithm  :
+- Divide data set  into three parts :
+1) Training set
+2) Validation set 
+3) Testing set
+
+## 
