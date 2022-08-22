@@ -43,3 +43,6 @@
 ##  K- Fold Cross Validation :
 - K-Fold Cross-Validation. Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample 
 - The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into 
+
+# Results :
+- https://drive.google.com/file/d/13kV3HgijZe0syQVhNWrEjH3SRLR5e6_N/view?usp=sharing
