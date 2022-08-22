@@ -32,3 +32,14 @@
 - By using the  Support Vector Classifier (SVC) ,  I have got the accuracy for the  test data set as 80% which is same as log reg and KNN 
 - By using the Decision Tree Classifier , I have got the accuracy for the test data set as  83% which is  comparatively less than  MLP
 - By Comparing above model’s accuracy the Best Model is “MLP Classifier”
+
+## ROC_SCORE and ROC_CURVE :
+- Checking True Positive Rate and False Positive Rate by ploting at different rate
+## Confussion Matrix :
+- Distingushing the performance of a given classifier 
+- Confusion Matrix gives us  a comparison between  actual and predicted values 
+-  ACC = (TP + TN)/(TP + FP + FN + TN) 
+
+##  K- Fold Cross Validation :
+- K-Fold Cross-Validation. Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample 
+- The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into 
