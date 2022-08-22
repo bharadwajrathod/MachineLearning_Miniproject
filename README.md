@@ -17,18 +17,18 @@
 3) Testing set
 
 ##  Machine learning models and algorithms for fraud detection :
-1)(Logistics Regression
-2)Support Vector Classifier 
-3)Decision Tree 
-4)K-Nears Neighbors classifier
-5)Single Layer classifier
-6)Multi Layer Classifier
+1) (Logistics Regression
+2) Support Vector Classifier 
+3) Decision Tree 
+4) K-Nears Neighbors classifier
+5) Single Layer classifier
+6) Multi Layer Classifier
 
 ## Results of above models :
--By using the logistic regression , I  have  got the accuracy for the test data set as 80%
--By using the  K – Nearest Neighbors(KNN), I have got the accuracy for the test data set as  80% which is same as logistic regression
--By using the Multi Layer Classifier (MLP), I have got the accuracy for the test data  set as 84.168%  which is comparatively more than other models
--By using  the Single layer Perceptron (SLP), I have got the accuracy for the test data set as  72.5%  which is comparatively lesser than other models
--By using the  Support Vector Classifier (SVC) ,  I have got the accuracy for the  test data set as 80% which is same as log reg and KNN 
--By using the Decision Tree Classifier , I have got the accuracy for the test data set as  83% which is  comparatively less than  MLP
--By Comparing above model’s accuracy the Best Model is “MLP Classifier”
+- By using the logistic regression , I  have  got the accuracy for the test data set as 80%
+- By using the  K – Nearest Neighbors(KNN), I have got the accuracy for the test data set as  80% which is same as logistic regression
+- By using the Multi Layer Classifier (MLP), I have got the accuracy for the test data  set as 84.168%  which is comparatively more than other models
+- By using  the Single layer Perceptron (SLP), I have got the accuracy for the test data set as  72.5%  which is comparatively lesser than other models
+- By using the  Support Vector Classifier (SVC) ,  I have got the accuracy for the  test data set as 80% which is same as log reg and KNN 
+- By using the Decision Tree Classifier , I have got the accuracy for the test data set as  83% which is  comparatively less than  MLP
+- By Comparing above model’s accuracy the Best Model is “MLP Classifier”
